@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jazys, 32 year man who lives in France (near Grenoble). I work in a company which delivers private network radio for industrials (ENEDIS, Motorway...). I'm project manager 
+- 👋 Hi, I’m @Jazys, 32 year man who lives in France (near Grenoble). I work in a company that delivers private network radio for industrials (ENEDIS, Motorway...). I'm project manager 
 and lead teams with capabiliies to make commercial purpose . Work also in integration of product ( writing test, executing)...
 - 👀 I’m interested in programming in Android (Java Only), VueJs (one year), Python (script or using famework like Django). I'm not expert in programming but I can use differet of them.
 - 🌱 I’m currently learning on machine learning and other languages (GO)
